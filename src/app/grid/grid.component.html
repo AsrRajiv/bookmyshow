@@ -1,0 +1,25 @@
+<h1>Child component loaded : {{appTitle}}</h1>
+<button (click)="emitData()">Emit Data</button>
+
+<div class="grid-container">
+    <ng-container *ngFor="let movie of movies.moviesList">
+        <div class="grid">
+            <div class="grid-top">
+                <div class="grid-item">
+                    <div class="grid-list-item">
+                        <div class="grid-image">
+                            <img src="{{movie.image}}" width="150" height="250" [alt]="movie.title" /> 
+                        </div>
+                        <div class="grid-views">{{movie.votes}}</div>
+                    </div>
+                </div>
+            </div>
+            <div class="grid-bottom">
+                <div routerLink="movies/{{movie.id}}" class="grid-title">{{movie.title}}</div>
+                <div routerLink="movies/{{movie.id}}/reviews" class="grid-review">Reviews</div>
+                <div class="grid-subtitle">{{movie.subtitle}}</div>
+            </div>
+        </div>
+    </ng-container>
+
+</div>

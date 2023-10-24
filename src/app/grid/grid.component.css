@@ -1,0 +1,27 @@
+.grid {
+    width: 20%;
+    margin: 10px;
+    float: left;
+}
+
+.grid-container {
+    display: block; 
+    float: left;
+}
+
+.grid-views {
+    cursor: pointer;
+    text-align: center;
+}
+
+.grid-bottom {
+    text-align: center;
+}
+
+.grid-image {
+    text-align: center;
+}
+
+.grid-list-item {
+    padding-bottom: 10px;
+}

@@ -1,0 +1,8 @@
+<h1>{{title}}: Child Title : {{childTitle}}</h1>
+<app-grid [appTitle]="title" (childEmitter)="displayChildEmitter($event)"></app-grid>
+
+<div class="container">
+    <app-header></app-header>
+    <app-grid [movies]="moviesList"></app-grid>
+
+</div>

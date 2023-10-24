@@ -1,0 +1,36 @@
+.header-container {
+    display: flex;
+}
+
+.logo {
+    width: 30%;
+    background-color: antiquewhite;
+    height: 100px;
+}
+
+.search {
+    width: 50%;
+    background-color: aquamarine;
+    height: 100px;
+}
+
+.header-opts {
+    width: 20%;
+    background-color: burlywood;
+    height: 100px;
+}
+
+.navi-list {
+    display: flex;
+    background-color: cornflowerblue;
+}
+
+.navi-list > li {
+    list-style-type: none;
+    padding: 5px 10px 5px 5px;
+    cursor: pointer;
+}
+
+.navi-list > li:hover {
+    color: #FFF;
+}

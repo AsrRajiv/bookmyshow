@@ -1,0 +1,46 @@
+{
+    "moviesList": [
+        {
+            "id": 1,
+            "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-OC40LzEwICAzMzcuNEsgVm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00351731-fmmuytjtzl-portrait.jpg",
+            "votes": "14.2K votes",
+            "title": "LEO (Tamil)",
+            "subtitle": "Action/Thriller"
+        },
+        {
+            "id": 25,
+            "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-OC40LzEwICAzMzcuNEsgVm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00351731-fmmuytjtzl-portrait.jpg",
+            "votes": "14.2K votes",
+            "title": "LEO (Kanada)",
+            "subtitle": "Action/Thriller"
+        },
+        {
+            "id": 36,
+            "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-OC40LzEwICAzMzcuNEsgVm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00351731-fmmuytjtzl-portrait.jpg",
+            "votes": "14.2K votes",
+            "title": "LEO (Hindi)",
+            "subtitle": "Action/Thriller"
+        },
+        {
+            "id": 45,
+            "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-OC40LzEwICAzMzcuNEsgVm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00351731-fmmuytjtzl-portrait.jpg",
+            "votes": "14.2K votes",
+            "title": "LEO (Telugu)",
+            "subtitle": "Action/Thriller"
+        },
+        {
+            "id": 44,
+            "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-OC40LzEwICAzMzcuNEsgVm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00351731-fmmuytjtzl-portrait.jpg",
+            "votes": "14.2K votes",
+            "title": "LEO",
+            "subtitle": "Action/Thriller"
+        },
+        {
+            "id": 145,
+            "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-OC40LzEwICAzMzcuNEsgVm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00351731-fmmuytjtzl-portrait.jpg",
+            "votes": "14.2K votes",
+            "title": "LEO (Malayalam)",
+            "subtitle": "Action/Thriller"
+        }
+    ]
+}
